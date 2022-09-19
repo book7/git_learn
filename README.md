@@ -2,3 +2,4 @@
 git
 
 beijin is red
+beijin good
